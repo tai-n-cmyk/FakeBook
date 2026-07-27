@@ -12,7 +12,7 @@ FakeBook là một ứng dụng mạng xã hội đơn giản được thiết k
 *Lưu ý: Bất kỳ tính năng nào không được liệt kê rõ ràng ở đây đều nằm ngoài phạm vi của giai đoạn này và sẽ được xem xét phát triển sau.*
 
 ### 3.1. Xác thực & Phân quyền (Authentication)
-- **Đăng ký (Registration):** Người dùng có thể đăng ký tài khoản. Bắt buộc phải xác thực email bằng mã (code) được gửi về địa chỉ email.
+- **Đăng ký (Registration):** Người dùng có thể đăng ký tài khoản. Bắt buộc phải xác thực email bằng mã (code) được gửi về địa chỉ email (phần gửi email chỉ cần dummy code "123456" để minh họa).
 - **Đăng nhập (Login):** Đăng nhập tiêu chuẩn bằng email và mật khẩu.
 - **Quên mật khẩu (Forgot Password):** Chức năng đặt lại mật khẩu khi bị quên.
 

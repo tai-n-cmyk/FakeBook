@@ -16,7 +16,7 @@ Ngôn ngữ giao tiếp chính để làm việc và viết tài liệu là **Ti
 
 ## Giới hạn Phạm vi Tính năng (Scope)
 Tuyệt đối tuân thủ các tính năng sau đây. Không tự ý triển khai hoặc đề xuất các tính năng ngoài danh sách này trừ khi được người dùng yêu cầu mở rộng:
-1.  **Xác thực (Auth):** Đăng ký (xác minh qua mã gửi về email), Đăng nhập, Quên mật khẩu.
+1.  **Xác thực (Auth):** Đăng ký (xác minh qua mã gửi về email - sử dụng dummy code "123456" để minh họa), Đăng nhập, Quên mật khẩu.
 2.  **Bảng tin (Newsfeed):** Tương tự như bảng tin của Facebook.
 3.  **Bài viết (Posts):** CHỈ cho phép tải lên văn bản và hình ảnh (không hỗ trợ video/tài liệu). Cho phép tạo, chỉnh sửa và xóa bài viết của chính mình.
 4.  **Tương tác (Interactions):** Kết bạn, Theo dõi, Thích (Like), Bình luận (Comment), Chia sẻ (Share).

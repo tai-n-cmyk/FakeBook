@@ -8,7 +8,7 @@
 
 ## Giai đoạn 2: Hệ thống Xác thực (Authentication)
 - [ ] **BE:** Tạo User Schema trong MongoDB.
-- [ ] **BE:** Tích hợp Nodemailer (hoặc dịch vụ tương tự) để gửi mã xác nhận qua email.
+- [ ] **BE:** Tích hợp Nodemailer (chỉ cần dummy code "123456" để minh họa) để gửi mã xác nhận qua email.
 - [ ] **BE:** Phát triển các API cho Đăng ký (tạo & xác minh mã code), Đăng nhập (tạo JWT), và Quên/Đặt lại mật khẩu.
 - [ ] **FE:** Xây dựng giao diện (UI): Đăng ký, Xác minh Email, Đăng nhập và Quên mật khẩu.
 - [ ] **FE:** Xây dựng Authentication Context/State và bảo vệ các route (Middleware).
